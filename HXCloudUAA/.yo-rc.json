@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hxcloud.uaa",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "4.8.2",
+    "baseName": "HXCloudUAA",
+    "packageName": "com.hxcloud.uaa",
+    "packageFolder": "com/hxcloud/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "242ce80c6d27bd5881daaa50e1c7b3d9f1e67984",
+    "enableTranslation": true,
+    "applicationType": "uaa",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ],
+    "clientPackageManager": "yarn"
+  }
+}
